@@ -1,5 +1,5 @@
 # RETO 3: POBLANDO AL WORLDCRAFT ASCII
-![image](https://user-images.githubusercontent.com/104838545/169082647-91d8f947-dc7c-49ba-b115-6740cd39e1de.png)<br>
+![image](https://user-images.githubusercontent.com/104838545/169082647-91d8f947-dc7c-49ba-b115-6740cd39e1de.png)
 ![image](https://user-images.githubusercontent.com/104838545/169082599-2c26b9c1-393d-4397-bbb7-e57f9429e4b5.png)<br>
 
 Este reto se trata de implementar un programa que permita poblar al mundo WorldCraft ASCII.
@@ -22,7 +22,7 @@ Esta función se encarga de obtener criaturas pasivas y hostiles para que aparez
 <li>Columna donde debe aparecer (generada aleatoriamente)
 <li>Fecha y hora en la que aparece (tomada del sistema)
   </lu>
-<h2>Se debe implementar una función que permita:<h2>
+<h2>Se debe implementar una función que permita:</h2>
 <lu>
 <li>Recibir como parámetros la cola de la que se desea obtener una criatura
 <li>Retornar una estructura de datos (¿tupla?, ¿diccionario?) con la información retornada
@@ -52,7 +52,7 @@ Se debe tener una función que genere una estructura de datos similar a la pedid
 
 
 Para esta parte vamos a implementar dos funciones:
- <h2>La primera función<h2>
+ <h2>La primera función</h2>
 •	Dadas:
 o	La lista de muros
 o	La lista de criaturas en el juego
